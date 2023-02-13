@@ -37,7 +37,7 @@
   test-data: |
     - производитель Aplle
     - Цена от 0 до 500$
-  steps: |
+  steps:
     - выбираем Aplle
     - Устанавливаем цену от "0" до "500"
   expected-result: |
