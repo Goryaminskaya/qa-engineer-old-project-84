@@ -1,6 +1,5 @@
 ---
 test-cases:
----
  - summary: |
      Оформление заказа на руссом языке
    status: pass
@@ -48,7 +47,6 @@ test-cases:
  - summary: |
      Проверка фильтрации товара по хэштегам
    status: pass
-
        
 bugreports:
  - summary: |
